@@ -7,7 +7,7 @@ public class TestingDemo {
 		System.out.println("Hii my name is shyamnarayan singh");
 		System.out.println("Hello how are you");
 
-		System.out.println("Welcome");
+		
 
 	}
 
